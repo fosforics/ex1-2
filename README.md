@@ -1,5 +1,5 @@
 # Exercise 1-1
-[![flake8](https://github.com/fosforics/ex1-1/actions/workflows/flake8.yml/badge.svg)](https://github.com/fosforics/ex1-1/actions/workflows/flake8.yml)
+[![flake8](https://github.com/fosforics/ex1-2/actions/workflows/flake8.yml/badge.svg)](https://github.com/fosforics/ex1-2/actions/workflows/flake8.yml)
 
 *Everybody* has to do this exercise at *least* once. The idea is to get "Hello, World!" to display on the screen when
 you run `code.py`.
